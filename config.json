@@ -1,0 +1,23 @@
+{
+    "I2C_Rate": 90,
+
+    "C2I_Rate": 87,
+
+    "Upi": "Upload-Your-Upi-ID",
+
+    "Qr": "Upload-Your-Pay-QR-URL",
+
+    "SERVER_Link": "Upload-Your_ServeLink",
+
+    "User_Id": "Upload-Your-User-ID",
+
+    "LTC_ADDY": "Upload-YOUR-LTC-Addy",
+
+    "ltckey": "Upload-Your-LTC-Key",
+
+    "apikey": "t-6671a344bf5dd5001c4cf40d-4b64fd6ff6634d3ebdaf6120",
+
+    "token": "Upload-Your-Token",
+
+    "prefix": "~"
+    }
