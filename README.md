@@ -4,22 +4,22 @@ A powerful Selfbot for raiding, nuking, spamming, overall all in one Selfbot by 
 ------
 
 # Selfbot Details
-• Name : Prime Selfbot
-• Developer : Rexden#00000
-• Version : V1
-• Language : Python
-• Main File : bot.py
-• Config File : config.json
+1. Name : Prime Selfbot
+2. Developer : Rexden#00000
+3. Version : V1
+4. Language : Python
+5. Main File : bot.py
+6. Config File : config.json
 
 ------
 
 # How To Setup?
-• Step 1 : Download this code as zip
-• Step 2 : Upload it to on a panel “Python”
-• Step 3 : Setup the startup file to `config.json`
-• Step 4 : Fill your details in `config.json`
-• Step 5 : Run the panel
-• Step 6 : All Set! Enjoy!
+1. Step : Download this code as zip
+2. Step : Upload it to on a panel “Python”
+3. Step : Setup the startup file to `config.json`
+4. Step : Fill your details in `config.json`
+5. Step : Run the panel
+6. Step : All Set! Enjoy!
 
 ------
 
